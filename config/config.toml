@@ -1,0 +1,5 @@
+#config/config.toml
+​
+baseURL = "https://csr1234567.github.io"
+title = "γ college"
+theme = "zzo"
